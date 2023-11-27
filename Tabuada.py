@@ -6,7 +6,7 @@ print('\n\t\t\t --Tabuada do 1 ao 10-- \n')
 
 # Entrada
 
-num = int(input('Informe a Tabuada:'))
+num = int(input('Informe a Tabuada:'))..
 
 # Processamento
 
